@@ -15,11 +15,13 @@ Kitchen Sink is a developer friendly sample implementation of Webex client SDK a
 1. ScreenShot-3: Iniciate call page, contains call recent/search/email/group.
 1. ScreenShot-4: Show messaing APIs with present payloads.
 
+<!---
 ## Download App
 You can download our Demo App from TestFlight.
 1. Download TestFlight from App Stroe.
 1. Open the public url(https://testflight.apple.com/join/HWhcEPFe) from your iPhone browser.
 1. Start Testing and install Ktichen Sink App from TestFlight.
+-->
 ## Setup
 Here are the steps to setup Xcode project using [CocoaPods](http://cocoapods.org):
 
